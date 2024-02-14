@@ -12,14 +12,14 @@ Certifique-se de ter as seguintes ferramentas instaladas antes de começar:
 
 ## Configuração do Ambiente
 
-# -> Faça o download ou clone do projeto
-# -> Abrir terminal no diretório do projeto
-# -> Executar comando: composer install
-# -> Executar comando: npm install
-# -> Executar comando: cp .env.example .env
-# -> Executar comando: php artisan key:generate
-# -> Abrir o arquivo .env e ajustar configurações próprias do MySql
-# -> Executar comando: php artisan migrate
-# -> Em caso de erro: php artisan migrate:fresh
-# -> Executar comando: php artisan db:seed --class=TransportadoraSeeder
-# -> Executar comando: php artisan serve
+### -> Faça o download ou clone do projeto
+### -> Abrir terminal no diretório do projeto
+### -> Executar comando: composer install
+### -> Executar comando: npm install
+### -> Executar comando: cp .env.example .env
+### -> Executar comando: php artisan key:generate
+### -> Abrir o arquivo .env e ajustar configurações próprias do MySql
+### -> Executar comando: php artisan migrate
+### -> Em caso de erro: php artisan migrate:fresh
+### -> Executar comando: php artisan db:seed --class=TransportadoraSeeder
+### -> Executar comando: php artisan serve
